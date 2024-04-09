@@ -10,9 +10,9 @@ O Meetup Goiânia, que ocorreu no último dia 5/4, foi um evento incrível onde 
 
 Confira algumas fotos do nosso encontro:
 
-![Foto 1](link_para_foto1)
-![Foto 2](link_para_foto2)
-... (e assim por diante)
+
+<p align="center"><img src="./images/Meetupfoto1.png" alt="Fotos" width="600"/></p>
+
 
 ## Materiais do Evento
 
