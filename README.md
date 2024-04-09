@@ -16,7 +16,10 @@ Confira algumas fotos do nosso encontro:
 <p align="center"><img src="./images/foto3.png" alt="Fotos" width="600"/></p>
 <p align="center"><img src="./images/foto4.png" alt="Fotos" width="600"/></p>
 <p align="center"><img src="./images/foto5.png" alt="Fotos" width="600"/></p>
-
+<p align="center"><img src="./images/foto6.jpeg" alt="Fotos" width="600"/></p>
+<p align="center"><img src="./images/foto7.jpeg" alt="Fotos" width="600"/></p>
+<p align="center"><img src="./images/foto8.jpeg" alt="Fotos" width="600"/></p>
+<p align="center"><img src="./images/foto9.jpeg" alt="Fotos" width="600"/></p>
 
 ## Materiais do Evento
 
