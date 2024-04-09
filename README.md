@@ -1,8 +1,6 @@
-# meetup_goiania
+# Meetup Goiânia 2024
 
-# Meetup Goiânia
-
-![Chamada para o evento](https://github.com/salgado/meetup_goiania/tree/main/images/chamada_meetup.png)
+<p align="center"><img src="./images/chamada_meetup.png" alt="Demo" width="700"/></p>
 
 ## Sobre o Evento
 
